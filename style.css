@@ -1,0 +1,57 @@
+body {
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+}
+
+.custom-Jumbo {
+    background-color: #815fc0;
+    /* center it */
+    width: 80vw;
+    
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+     
+    
+    
+    /* round */
+    border-radius: 50px;
+    border: 10px solid black;
+
+}
+
+.h1-custom {
+    text-align: center ;
+    font-size: 60px;
+}
+
+.container-fluid{
+    padding-top: 10vh;
+}
+
+.streamer-list{
+    margin-top: 5px;
+    border-radius: 25px;
+}
+
+.custom-img{
+    border-radius:  50px;
+    width: 50px;
+    height: 50px; 
+}
+
+.live{
+    margin-left: 10px;
+    width: 10%;
+    height: 10%;
+}
+
+a{
+    color: black;
+    font-weight: bolder;
+}
+
+.header-custom{
+    width: 50vw;
+}
